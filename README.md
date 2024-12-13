@@ -10,10 +10,6 @@ Registeration Part :
 Login Part :     
 ![flash-chat-login](https://user-images.githubusercontent.com/72383774/168092764-0f129fd9-78f9-4419-979c-cd9804291901.gif)
 
-Second User (Login + Registeration) :  
-https://user-images.githubusercontent.com/72383774/168092807-b75c2a7c-534b-4e90-94b4-a021873adc03.mp4
-
-
 - What the project does  
   - Let's you register for chatting
   - Let's you login for chatting
